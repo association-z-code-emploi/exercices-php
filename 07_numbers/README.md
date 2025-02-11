@@ -1,8 +1,7 @@
 ---
 tags:
-  - php
-  - basic
   - exercises
+  - php
 ---
 
 # Exercice 7 : nombres entiers et décimaux

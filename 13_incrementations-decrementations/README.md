@@ -1,8 +1,7 @@
 ---
 tags:
-  - php
-  - basic
   - exercises
+  - php
 ---
 
 # Exercice 13 : opérateurs d’incrémentation et de décrémentation

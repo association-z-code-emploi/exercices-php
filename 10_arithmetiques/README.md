@@ -1,8 +1,7 @@
 ---
 tags:
-  - php
-  - basic
   - exercises
+  - php
 ---
 
 # Exercice 10 : opérateurs arithmétiques

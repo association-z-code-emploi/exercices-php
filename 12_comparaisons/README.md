@@ -1,8 +1,7 @@
 ---
 tags:
-  - php
-  - basic
   - exercises
+  - php
 ---
 
 # Exercice 12 : opérateurs de comparaison
