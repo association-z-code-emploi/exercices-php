@@ -38,8 +38,5 @@ Utilisez un interpréteur en ligne :
 
 - un fichier Markdown ("_.md_") contenant l'énoncé de l'exercice
 - un fichier PHP vide (ou partiellement rempli) que vous devez compléter
-- un dossier solutions contenant une solution possible que vous pouvez consulter une fois un exercice terminé pour comparer votre réponse avec la solution proposée
 
-> ⚠️ Ne consultez pas la solution avant d'avoir terminé l'exercice !
-
-> 🗒️ Si votre solution est très différente de celle proposée, ce n'est pas un problème. Si vous avez des questions, n'hésitez pas à demander de l'aide sur notre serveur Discord.
+> 🗒️ Si vous avez des questions, ou si vous voulez comparer vos solutions à d'autres, n'hésitez pas à demander de l'aide sur notre serveur Discord (accès réservé aux membres de l'Association Z - Code pour l'Emploi).
